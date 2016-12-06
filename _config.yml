@@ -1,3 +1,5 @@
-name: Gearoid O'Connor
+name: Wil Burke
 markdown: redcarpet
 exclude: ["node_modules", "gulpfile.js", "package.json"]
+baseurl: "/sample/" # the subpath of your site, e.g. /blog/
+url: http://Bthekid13.github.io # the base hostname & protocol for your site
